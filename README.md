@@ -1,0 +1,2 @@
+# responsive
+contoh script responsive
